@@ -124,6 +124,7 @@ This project is licensed under the MIT License.
 - **FRED (Federal Reserve Economic Data)**: For providing access to economic indicators.
 - **Scikit-learn and TensorFlow**: For the machine learning libraries used in this project.
 
+Thank You UC Berkeley Extension and AIML Program!
 ---
 
 This `README.md` provides a comprehensive overview of your project, including the data sources, preprocessing steps, modeling approach, and instructions for running the code. You can customize it further based on your specific needs or additional details. Let me know if you need any other adjustments!
