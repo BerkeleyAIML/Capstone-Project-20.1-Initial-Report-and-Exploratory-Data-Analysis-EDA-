@@ -109,7 +109,7 @@ jupyter notebook
 
 ```
 
-## Run the notebook <span style="color:blue">[notebooks/AIMLCapstoneEDA.ipynb](notebooks/FAIMLCapstoneEDA.ipynb)</span> for USD/JPY prediction
+## Run the notebook <span style="color:blue">notebooks/AIMLCapstoneEDA.ipynb</span> for USD/JPY prediction
 ## License
 
 This project is licensed under the MIT License.
