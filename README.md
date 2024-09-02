@@ -112,6 +112,10 @@ jupyter notebook
 ## Run the notebook <span style="color:blue">notebooks/AIMLCapstoneEDA.ipynb</span> for USD/JPY prediction
 ## License
 
+# Project Presentation
+
+The project presentation can be found [Capstone Presentation](presentation/Predictive_Maintenance_using_ML.pptx).
+
 This project is licensed under the MIT License.
 
 ## Acknowledgments
